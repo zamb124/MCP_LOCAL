@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "shopping-assistant": {
+      "command": "/Users/viktor-shved/PycharmProjects/MCP_LOCAL/venv/bin/python",
+      "args": ["/Users/viktor-shved/PycharmProjects/MCP_LOCAL/shopping_mcp_server.py"],
+      "env": {},
+      "cwd": "/Users/viktor-shved/PycharmProjects/MCP_LOCAL"
+    }
+  }
+}
